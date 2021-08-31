@@ -40,9 +40,10 @@ const app = ()=> {
 
     console.log(url)
 
-    $restart.addEventListener("click", ()=> {
-        app()
-    })
 }
 
 app()
+
+$restart.addEventListener("click", ()=> {
+    app()
+})
