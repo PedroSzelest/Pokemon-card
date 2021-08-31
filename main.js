@@ -8,7 +8,7 @@ const $attack = document.querySelector(".attack-result")
 const $defense = document.querySelector(".defense-result")
 const $special_attack = document.querySelector(".special-attack-result")
 const $special_defense = document.querySelector(".special-defense-result")
-const $speed = document.querySelector(".speed")
+const $speed = document.querySelector(".speed-result")
 
 const $restart = document.querySelector(".restart")
 
