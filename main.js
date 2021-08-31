@@ -41,7 +41,7 @@ const app = ()=> {
     console.log(url)
 
     $restart.addEventListener("click", ()=> {
-        window.location = "/index.html"
+        app()
     })
 }
 
